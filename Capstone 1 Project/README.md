@@ -1,8 +1,9 @@
-Predicting Airbnb User Bookings with Supervised Machine Learning
-Capstone #1 Final Report
-Anthony Johnson
+# Predicting Airbnb User Bookings with Supervised Machine Learning
 
-Introduction 
+See the full code [here](https://github.com/Aejohnso/Springboard/tree/master/Capstone%201%20Project).
+See the full report [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone%201%20Project/Final%20Report.pdf).
+
+Summary 
 Airbnb is an online tool for connecting homeowners (hosts) with people looking for a place to stay (users). More successful connections, or bookings, means more revenue, and so it is in Airbnb’s interest to make the user experience as smooth as possible. Airbnb thus uses data to optimize user experience and increase the number of bookings. 
 
 Airbnb would likely benefit from a predictive model of how soon a user will make their first booking, based on typical user actions, profiles, etc. That is, there could be a strong correlation between specific user profiles/actions and the likelihood that the user will make a booking or not. 
@@ -11,16 +12,7 @@ Such a predictive model would be very useful to Airbnb in order to pick out whic
 
 In this report, Airbnb user data was collected, cleaned, explored, and ultimately used to train a random forest classifier to predict if a user will make a booking or not. 
 
-Data Source 
-The data was acquired from a Kaggle competition from 2015. The data contains information about users’ signup and booking information, as well as detailed logs of user actions. The data is relatively clean, though not perfect. Here is a summary of the tables:
-Train_users.csv - user data for training the model
-Test_users.csv - user data for testing the model
-Sessions.csv - detailed logs of user actions
-Countries.csv - summary statistics of destination countries
-Age_gender_bkts.csv - summary statistics of users age, gender, country
-https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
-
-Each of these CSV files were read into Jupyter using the Pandas read_csv() function, creating a Pandas DataFrame for each CSV file.
+The data was acquired from a Kaggle competition from 2015, [here](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings). 
 
 Approach
 This problem involves digging into the user data (train_users.csv) and activity logs (sessions.csv) and training models to predict how soon a booking will be made. The train_users table contains dates for account creation and dates of first booking. The date of first booking minus the date of account of creation is thus the main variable we want to model. Here are some questions we want to address, to help us tease out useful information:
