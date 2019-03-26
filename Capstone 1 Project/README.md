@@ -4,7 +4,7 @@ Read the full report [here](https://github.com/Aejohnso/Springboard/blob/master/
 
 See the python code [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone%201%20Project/Python_Code.ipynb).
 
-## Summary 
+## Project Summary 
 Airbnb is an online tool for connecting homeowners (hosts) with people looking for a place to stay (users). More successful connections, or bookings, means more revenue, and so it is in Airbnb’s interest to make the user experience as smooth as possible. Airbnb thus uses data to optimize user experience and increase the number of bookings. 
 
 In this capstone project, Airbnb user data was collected, cleaned, explored, and ultimately used to train a random forest classifier to predict if a user will make a booking or not. This predictive model may be useful to Airbnb in order to pick out which users need a little extra incentive to get them to make their first booking. The data was acquired from a Kaggle competition from 2015, [here](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings). 
