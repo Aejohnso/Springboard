@@ -13,3 +13,4 @@ The random forest classifier was optimized using randomized search cross-validat
 
 Below is the ROC curve for the final random forest classifier. The training and testing AUC values are 0.80 and 0.76, respectively.
 
+![png](ROC_curve.png)
