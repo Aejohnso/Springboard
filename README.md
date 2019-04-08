@@ -19,7 +19,9 @@ Beginning with the VGG-Face pretrained model and using transfer learning, a conv
 [Clustering](https://github.com/Aejohnso/Springboard/blob/master/Clustering_MiniProject.ipynb): Unsupervised machine learning to place wine drinkers into categories
 
 [Inference #1](https://github.com/Aejohnso/Springboard/blob/master/Inference_Discrimination.ipynb): Examining racial discrimination in the US job market.
+
 [Inference #2](https://github.com/Aejohnso/Springboard/blob/master/Inference_Hospital_Readmittance.ipynb): Inferential statistics to assess the correlation between hospital size and readmission ratio.
+
 [Inference #3](https://github.com/Aejohnso/Springboard/blob/master/Inference_Human_Temperature.ipynb): Inferential statistics to determine the "normal" range of human body temperature.
 
 [SQL Exercises](https://github.com/Aejohnso/Springboard/blob/master/SQL_project.txt)
