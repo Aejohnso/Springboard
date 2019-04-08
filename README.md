@@ -14,8 +14,8 @@ Beginning with the VGG-Face pretrained model and using transfer learning, a conv
 
 ### [Logistic Regression](https://github.com/Aejohnso/Springboard/blob/master/Logistic_Regression_Project.ipynb)
 
-### [Naive Bayes](https://github.com/Aejohnso/Springboard/blob/master/Naive_Bayes_MiniProject.ipynb): 
-  Text assessment of movie reviews using Naive Bayes statistics
+ [Naive Bayes](https://github.com/Aejohnso/Springboard/blob/master/Naive_Bayes_MiniProject.ipynb): 
+ Text assessment of movie reviews using Naive Bayes statistics
 
 ### [Unsupervised Clustering](https://github.com/Aejohnso/Springboard/blob/master/Clustering_MiniProject.ipynb)
 
