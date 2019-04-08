@@ -12,16 +12,16 @@ Beginning with the VGG-Face pretrained model and using transfer learning, a conv
 
 [Linear Regression](https://github.com/Aejohnso/Springboard/blob/master/Linear_Regression_Project.ipynb): Correlation of Boston housing data with housing prices.
 
-[Logistic Regression](https://github.com/Aejohnso/Springboard/blob/master/Logistic_Regression_Project.ipynb): Classifying males vs. females using weight and height data
+[Logistic Regression](https://github.com/Aejohnso/Springboard/blob/master/Logistic_Regression_Project.ipynb): Classifying males vs. females using weight and height data.
 
 [Naive Bayes](https://github.com/Aejohnso/Springboard/blob/master/Naive_Bayes_MiniProject.ipynb): Text assessment of movie reviews using Naive Bayes statistics.
 
-### [Unsupervised Clustering](https://github.com/Aejohnso/Springboard/blob/master/Clustering_MiniProject.ipynb)
+[Clustering](https://github.com/Aejohnso/Springboard/blob/master/Clustering_MiniProject.ipynb): Unsupervised machine learning to place wine drinkers into categories
 
-### [Inference #1](https://github.com/Aejohnso/Springboard/blob/master/Inference_Discrimination.ipynb)
-### [Inference #2](https://github.com/Aejohnso/Springboard/blob/master/Inference_Hospital_Readmittance.ipynb)
-### [Inference #3](https://github.com/Aejohnso/Springboard/blob/master/Inference_Human_Temperature.ipynb)
+[Inference #1](https://github.com/Aejohnso/Springboard/blob/master/Inference_Discrimination.ipynb): Examining racial discrimination in the US job market.
+[Inference #2](https://github.com/Aejohnso/Springboard/blob/master/Inference_Hospital_Readmittance.ipynb): Inferential statistics to assess the correlation between hospital size and readmission ratio.
+[Inference #3](https://github.com/Aejohnso/Springboard/blob/master/Inference_Human_Temperature.ipynb): Inferential statistics to determine the "normal" range of human body temperature.
 
-### [SQL Exercises](https://github.com/Aejohnso/Springboard/blob/master/SQL_project.txt)
+[SQL Exercises](https://github.com/Aejohnso/Springboard/blob/master/SQL_project.txt)
 
-### [Basic Data Wrangling](https://github.com/Aejohnso/Springboard/blob/master/API_data_wrangling_mini_project.ipynb)
+[Basic Data Wrangling](https://github.com/Aejohnso/Springboard/blob/master/API_data_wrangling_mini_project.ipynb)
