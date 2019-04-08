@@ -12,7 +12,7 @@ Beginning with the VGG-Face pretrained model and using transfer learning, a conv
 
 [Linear Regression](https://github.com/Aejohnso/Springboard/blob/master/Linear_Regression_Project.ipynb): Correlation of Boston housing data with housing prices.
 
-### [Logistic Regression](https://github.com/Aejohnso/Springboard/blob/master/Logistic_Regression_Project.ipynb)
+[Logistic Regression](https://github.com/Aejohnso/Springboard/blob/master/Logistic_Regression_Project.ipynb): Classifying males vs. females using weight and height data
 
 [Naive Bayes](https://github.com/Aejohnso/Springboard/blob/master/Naive_Bayes_MiniProject.ipynb): Text assessment of movie reviews using Naive Bayes statistics.
 
