@@ -1,6 +1,6 @@
 # Springboard
 
-This repository houses all code, data, and files related to my work in the Springboard Data Science Career Track bootcamp. The following acts as a table of contents for the whole repository with links to the respective works.
+This repository houses all code, data, and files related to my work in the Springboard Data Science Career Track bootcamp. The following acts as a table of contents for the whole repository with links to the respective works. Expected completion date: May 20, 2019.
 
 ## Capstones
 
@@ -14,12 +14,15 @@ This repository houses all code, data, and files related to my work in the Sprin
 
 ### [Logistic Regression](https://github.com/Aejohnso/Springboard/blob/master/Logistic_Regression_Project.ipynb)
 
-### [Naive Bayes](https://github.com/Aejohnso/Springboard/blob/master/Naive_Bayes_MiniProject.ipynb): Text assessment of movie reviews using Naive Bayes statistics
+### [Naive Bayes](https://github.com/Aejohnso/Springboard/blob/master/Naive_Bayes_MiniProject.ipynb): 
+Text assessment of movie reviews using Naive Bayes statistics
 
-### [Clustering](https://github.com/Aejohnso/Springboard/blob/master/Clustering_MiniProject.ipynb)
+### [Unsupervised Clustering](https://github.com/Aejohnso/Springboard/blob/master/Clustering_MiniProject.ipynb)
 
 ### [Inference #1](https://github.com/Aejohnso/Springboard/blob/master/Inference_Discrimination.ipynb)
 ### [Inference #2](https://github.com/Aejohnso/Springboard/blob/master/Inference_Hospital_Readmittance.ipynb)
 ### [Inference #3](https://github.com/Aejohnso/Springboard/blob/master/Inference_Human_Temperature.ipynb)
 
 ### [SQL Exercises](https://github.com/Aejohnso/Springboard/blob/master/SQL_project.txt)
+
+### [Basic Data Wrangling](https://github.com/Aejohnso/Springboard/blob/master/API_data_wrangling_mini_project.ipynb)
