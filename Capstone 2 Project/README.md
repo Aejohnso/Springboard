@@ -11,11 +11,20 @@ Beginning with the VGG-Face pretrained model, I removed the last layer and added
 
 Overall, the model failed in cases with bad or inconsistent lighting or sometimes when we were wearing sunglasses. Note, however, that the model accurately predicted many images with sunglasses. An 88% success rate is still good, at least for identical twins.
 
+### Below is the training data
+#### Anthony
+
+![png](TrainingAJ.png)
+
+#### Paul
+
+![png](TrainingPJ.png)
+
 ### Below is the training history. The model converged in about 18 epochs.
 
 ![png](Training_history.png)
 
-### Below is the ROC curve.
+### Below is the ROC curve, for the training, validation, and testing data.
 
 ![png](ROC_curve.png)
 
