@@ -9,6 +9,8 @@ Facial recognition has come a long way in the last few years, thanks to convolut
 
 Beginning with the VGG-Face pretrained model, I removed the last layer and added two Dense layers. The first Dense layer had 100 nodes and the second had 2 nodes. I then trained the CNN to distinguish between me and my identical twin brother. The final testing accuracy was 88%, with an area under the ROC curve of 0.94.
 
+Overall, the model failed in cases with bad or inconsistent lighting or sometimes when we were wearing sunglasses. Note, however, that the model accurately predicted many images with sunglasses. An 88% success rate is still good, at least for identical twins.
+
 ### Below is the training history. The model converged in about 18 epochs.
 
 ![png](Training_history.png)
@@ -24,4 +26,3 @@ Beginning with the VGG-Face pretrained model, I removed the last layer and added
 ### False Paul (model thinks it is Anthony
 
 ![png](FalsePJ.png)
-
