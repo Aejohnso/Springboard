@@ -9,10 +9,12 @@ Facial recognition has come a long way in the last few years, thanks to convolut
 
 Beginning with the VGG-Face pretrained model, I removed the last layer and added two Dense layers. The first Dense layer had 100 nodes and the second had 2 nodes. I then trained the CNN to distinguish between me and my identical twin brother. The final testing accuracy was 88%, with an area under the ROC curve of 0.94.
 
-Below is the training history. The model converged in about 18 epochs.
+### Below is the training history. The model converged in about 18 epochs.
+
 ![png](Training_history.png)
 
-Below is the ROC curve.
+### Below is the ROC curve.
+
 ![png](ROC_curve.png)
 
 ### False Anthony (model thinks it is Paul)
