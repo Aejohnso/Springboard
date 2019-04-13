@@ -1,5 +1,6 @@
 # Facial Recognition of Identical Twins using Convolutional Neural Networks
-(in progress)
+
+The final report is in progress.
 
 See the full code [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone%202%20Project/Cap2_Faces1.ipynb).
 
