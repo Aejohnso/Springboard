@@ -1,2 +1,2 @@
-# Ulimate Inc. Takehome Challenge 
+# Ultimate Inc. Takehome Challenge 
 (in progress)
