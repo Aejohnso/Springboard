@@ -2,6 +2,8 @@
 
 See the full Python code [here](https://github.com/Aejohnso/Springboard/blob/master/Ultimate_Takehome_Challenge/Ultimate_code.ipynb).
 
+Split into 3 parts, this project involves time series analysis, A/B experiment design, and predictive modeling.
+
 ### Part 1 ‐ Time Series Data Analysis
 
 Below is are two plots showing the the daily and weekly patterns in the data.
