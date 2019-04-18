@@ -8,6 +8,9 @@ Airbnb user data was collected, cleaned, explored, and ultimately used to train 
 ## [Capstone #2](https://github.com/Aejohnso/Springboard/tree/master/Capstone%202%20Project): Facial Recognition with Deep Learning (in progress)
 Beginning with the VGG-Face pretrained model and using transfer learning, a convolutional neural network is being trained to distinguish between me and my identical twin brother.
 
+## [Ultimate Takehome Challenge](https://github.com/Aejohnso/Springboard/tree/master/Ultimate_Takehome_Challenge)
+Split into 3 parts, this project involves time series analysis, A/B experiment design, and predictive modeling.
+
 ## Mini-Projects
 
 [Linear Regression](https://github.com/Aejohnso/Springboard/blob/master/Linear_Regression_Project.ipynb): Correlation of Boston housing data with housing prices.
