@@ -4,7 +4,16 @@ See the full Python code [here](https://github.com/Aejohnso/Springboard/blob/mas
 
 ### Part 1 ‐ Time Series Data Analysis
 
+Below is are two plots showing the the daily and weekly patterns in the data.
+
+![png](Daily_Pattern_curve.png)
+![png](Weekly_Pattern_curve.png)
+
 ### Part 2 ‐ A/B Experiment Design  
+
+Below is a schematic of the driver Supply and Demand curves, as a way to conceptualize the problem.
+
+![png](Supply_Demand_curve.png)
 
 ### Part 3 ‐ Predictive Modeling of Active Users
 
