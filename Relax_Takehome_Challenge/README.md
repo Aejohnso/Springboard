@@ -8,7 +8,7 @@ See the original problem statement [here](https://github.com/Aejohnso/Springboar
 
 ### Summary of Results
 
-An "is_adopted" value of 1 or 0 was calculated for each user. Adopted users were grouped together, and then statistical significance t-tests were carried out to compare the means and standard deviations. Based on the test statistics, below, we can say that adopted users tend to have higher org_ids and are more likely to have been invited by a user. And they are more likely to originate from a GUEST_INVITE or SIGNUP_GOOGLE_AUTH, and less likely to originate from PERSONAL_PROJECTS. 
+An "is_adopted" value of 1 or 0 was calculated for each user. Adopted users were grouped together, and then statistical significance t-tests were carried out to compare the means and standard deviations. Based on the test statistics, below, we can say that adopted users tend to have higher org_ids and are more likely to have been invited by a user. And in the creation_source column, they are more likely to have GUEST_INVITE or SIGNUP_GOOGLE_AUTH, and less likely to have PERSONAL_PROJECTS. 
 
 ![png](Test_Stats_Plot2.png)
 ![png](Test_Stats_Plot4.png)
