@@ -4,6 +4,8 @@ Split into 3 parts, this project involves time series analysis, A/B experiment d
 
 See the full Python code [here](https://github.com/Aejohnso/Springboard/blob/master/Ultimate_Takehome_Challenge/Ultimate_code.ipynb).
 
+See the original problem statement [here](https://github.com/Aejohnso/Springboard/blob/master/Ultimate_Takehome_Challenge/Problem_Statement.pdf).
+
 ### Part 1 ‐ Time Series Data Analysis
 
 Below is are two plots showing the the daily and weekly patterns in the data.
