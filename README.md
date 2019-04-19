@@ -11,6 +11,9 @@ Beginning with the VGG-Face pretrained model and using transfer learning, a conv
 ## [Ultimate Takehome Challenge](https://github.com/Aejohnso/Springboard/tree/master/Ultimate_Takehome_Challenge)
 Split into 3 parts, this project involves time series analysis, A/B experiment design, and predictive modeling.
 
+## [Relax Takehome Challenge](https://github.com/Aejohnso/Springboard/tree/master/Relax_Takehome_Challenge)
+This challenge involves identifying which features in a dataset can be used to predict future user adoption.
+
 ## Mini-Projects
 
 [Linear Regression](https://github.com/Aejohnso/Springboard/blob/master/Linear_Regression_Project.ipynb): Correlation of Boston housing data with housing prices.
