@@ -2,7 +2,7 @@
 
 See the final report [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone_2_Project/Final_Report.pdf).
 
-See the full code [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone_2_Project/Cap2_Faces1.ipynb).
+See the full code [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone_2_Project/Python_Code.ipynb).
 
 ## Project Summary
 
