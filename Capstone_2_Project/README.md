@@ -1,6 +1,6 @@
 # Facial Recognition of Identical Twins using Convolutional Neural Networks
 
-The final report is in progress.
+See the final report [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone_2_Project/Final_Report.pdf).
 
 See the full code [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone%202%20Project/Cap2_Faces1.ipynb).
 
@@ -33,6 +33,6 @@ Overall, the model failed in cases with bad or inconsistent lighting or sometime
 
 ![png](FalseAJ.png)
 
-### False Paul (model thinks it is Anthony
+### False Paul (model thinks it is Anthony)
 
 ![png](FalsePJ.png)
