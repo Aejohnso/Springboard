@@ -1,5 +1,7 @@
 # Facial Recognition of Identical Twins using Convolutional Neural Networks
 
+See the final presentation [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone_2_Project/Presentation.pdf).
+
 See the final report [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone_2_Project/Final_Report.pdf).
 
 See the full code [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone_2_Project/Python_Code.ipynb).
