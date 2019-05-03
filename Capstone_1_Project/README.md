@@ -1,6 +1,6 @@
 # Predicting Airbnb User Bookings with Supervised Machine Learning
 
-Read the full report [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone_1_Project/Final%20Report.pdf).
+Read the full report [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone_1_Project/Final_Report.pdf).
 
 See the python code [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone_1_Project/Python_Code.ipynb).
 
