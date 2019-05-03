@@ -1,8 +1,8 @@
 # Predicting Airbnb User Bookings with Supervised Machine Learning
 
-Read the full report [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone%201%20Project/Final%20Report.pdf).
+Read the full report [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone_1_Project/Final%20Report.pdf).
 
-See the python code [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone%201%20Project/Python_Code.ipynb).
+See the python code [here](https://github.com/Aejohnso/Springboard/blob/master/Capstone_1_Project/Python_Code.ipynb).
 
 ## Project Summary 
 Airbnb is an online tool for connecting homeowners (hosts) with people looking for a place to stay (users). More successful connections, or bookings, means more revenue, and so it is in Airbnb’s interest to make the user experience as smooth as possible. Airbnb thus uses data to optimize user experience and increase the number of bookings. 
