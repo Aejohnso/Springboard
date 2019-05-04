@@ -5,7 +5,7 @@ This repository houses all code, data, and files related to my work in the Sprin
 ## [Capstone #1](https://github.com/Aejohnso/Springboard/tree/master/Capstone_1_Project): Predicting Airbnb User Bookings with Supervised Machine Learning
 Airbnb user data was collected, cleaned, explored, and ultimately used to train a random forest classifier to predict if a user will make a booking or not. This predictive model may be useful to Airbnb in order to pick out which users need a little extra incentive to get them to make their first booking. The final metric of interest, the ROC AUC, was 0.76.
 
-## [Capstone #2](https://github.com/Aejohnso/Springboard/tree/master/Capstone_2_Project): Facial Recognition with Deep Learning (in progress)
+## [Capstone #2](https://github.com/Aejohnso/Springboard/tree/master/Capstone_2_Project): Facial Recognition with Deep Learning
 Beginning with the VGG-Face pretrained model and using transfer learning, a convolutional neural network is being trained to distinguish between me and my identical twin brother.
 
 ## Takehome Challenges
