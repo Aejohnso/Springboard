@@ -6,7 +6,7 @@ This repository houses all code, data, and files related to my work in the Sprin
 Airbnb user data was collected, cleaned, explored, and ultimately used to train a random forest classifier to predict if a user will make a booking or not. This predictive model may be useful to Airbnb in order to pick out which users need a little extra incentive to get them to make their first booking. The final metric of interest, the ROC AUC, was 0.76.
 
 ## [Capstone #2](https://github.com/Aejohnso/Springboard/tree/master/Capstone_2_Project): Facial Recognition with Deep Learning
-Beginning with the VGG-Face pretrained model and using transfer learning, a convolutional neural network is being trained to distinguish between me and my identical twin brother.
+Beginning with the VGG-Face pretrained model and using transfer learning, a convolutional neural network was trained to distinguish between me and my identical twin brother. The final model has a testing accuracy of 88%. Various attempts were made to interpret the model results, including using [LIME](https://github.com/marcotcr/lime) (local interpretable model-agnostic explanations).
 
 ## Takehome Challenges
 
